@@ -1,4 +1,8 @@
-.claude/
+# Внутренние заметки агента держим вне публичного репозитория,
+# они лежат в приватном College. Инструменты из .claude/tools коммитим.
+.claude/NOTES.md
+.claude/build/
+.claude/settings.local.json
 
 # OS and editor junk
 Thumbs.db
